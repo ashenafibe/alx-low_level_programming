@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main :
+ * main - print if number is positive, zero or negative
  *
- * description:
+ * description:print a numbert ifbnnm
  * RETURN :0
  */
 int main(void)
