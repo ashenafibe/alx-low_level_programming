@@ -6,7 +6,7 @@
  * main - print if number is positive, zero or negative
  *
  * description:print a numbert ifbnnm
- * Return :0
+ * Return :always success
  */
 int main(void)
 {
