@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
 /**
@@ -17,6 +15,6 @@ int main(void)
 	{
 		printf("%i", i);
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
