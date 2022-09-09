@@ -4,6 +4,7 @@
 
 /**
  * main: print if positive ,zero and negative number
+ *
  * description:using the main 
  * RETURN :0
 */
@@ -16,7 +17,7 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-	       printf ("%i is positive\n", n);
+	         printf("%i is positive\n", n);
 	}
 	else if (n == 0)
 	{
