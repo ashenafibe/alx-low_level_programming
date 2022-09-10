@@ -4,7 +4,6 @@
  * main - print combination of numbers
  *
  * description:using the main function print the combination 
- * of numbers in 0 and 9
  * Return: 0
  */
 int main(void)
