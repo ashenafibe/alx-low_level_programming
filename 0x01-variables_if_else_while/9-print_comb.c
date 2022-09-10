@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print combination of numbers
+ * main-print a number 
  *
- * description:using the main function print the combination 
+ * description:print a number maim method
  * Return: 0
  */
 int main(void)
