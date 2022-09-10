@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
- * main-print a number 
- *
- * description:print a number maim method
+ * main-
+ * description:
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
