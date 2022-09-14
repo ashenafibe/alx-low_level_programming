@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - print all numbers
- * @num : The number to begin
+ * @n : The number to begin
  */
 void print_to_98(int n)
 {
