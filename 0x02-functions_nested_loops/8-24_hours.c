@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * jack_bauer:find the max num
- * 
+ * jack_bauer -  the max num
+ *
  * Return : 0
  */
 void jack_bauer(void)
