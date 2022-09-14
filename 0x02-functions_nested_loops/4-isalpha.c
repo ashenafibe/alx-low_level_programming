@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _isalpha - a function to check lower case character
+ * _isalpha -> a function to check lower case character
  * @c : is parameter
  *
  * Description :print val
- * Return : 0
+ * Return:Return 1 and 0 depending on situation
  */
 int _isalpha(int c)
 {
