@@ -3,8 +3,7 @@
  * print_sign - a function chech the sign of num
  * @n : is the int that will use for the argument of the function
  *
- * Return : 1 if the num s positive, -1 if the num is negative, 
- * 0 if the num is 0
+ * Return : 0
  */
 int print_sign(int n)
 {
@@ -21,6 +20,6 @@ int print_sign(int n)
 	else 
 	{
 		_putchar('-');
-		return (-1);
+		return (-1);	
 	}
 }
