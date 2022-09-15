@@ -6,14 +6,11 @@
  * Return:On success return 1
  * on error ,-1 is returned
  */
-int _isupper(char c)
+int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
+	if ((c >= 'A') && (c <= 'Z'))
 	{
 		return (1);
 	}
-	else
-	{
-	       return (-1);
-	}
-}	
+	return (0);
+}
