@@ -6,7 +6,7 @@
  * Return:On success return 1
  * on error ,-1 is returned
  */
-int _isupper(int c)
+int _isupper(char c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
