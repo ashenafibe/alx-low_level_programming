@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isdigit - the function n is digit or no
+ * _isdigit - the function n is digit or no 
  * @c: argument of the function
  *
  * Return: 1  if it id digit 0 for not
