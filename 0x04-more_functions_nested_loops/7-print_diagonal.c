@@ -1,30 +1,15 @@
 #include "main.h"
-/**
- * print_diagonal - print diagonal
- * @n: the argument of function
- *
- * Return: nothing
- */
-void print_diagonal(int n)
-{
-	int len,space;
 
-	if (n > 0)
+/**
+ * print_line - prints a straight line
+ * @n: parameter
+ * Return:returns nothing
+ */
+void print_line(int n)
+{
+	while (n-- > 0)
 	{
-		for (len = 0; len < n; n++)
-		{
-			for (space = 0; space < len; space++)
-			{
-			_putchar(' ');
-			}
-			_putchar('\\');
-			if (len == (n-1))
-			{
-			continue;
-			}
-			_putchar('\n');
-		}
+		_putchar('_');
 	}
-	_putchar('\');
+	_putchar('\n');
 }
-				
