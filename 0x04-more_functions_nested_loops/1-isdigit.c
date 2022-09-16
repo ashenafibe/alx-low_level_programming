@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * _isdigit - the function n is digit or no
  * @c: argument of the function
