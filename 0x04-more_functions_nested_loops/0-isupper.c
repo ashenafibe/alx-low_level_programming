@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isupper - the functin check where character is upper
- * @c: the input character 
+ * @c: the input character
  *
  * Return:On success return 1
  * on error ,-1 is returned
