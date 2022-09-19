@@ -12,6 +12,7 @@ void print_array(int *a, int n)
 {
 	int inc;
 
+        n = 0; 
 	for (inc = 0; inc < n ; inc++)
 	{
 		if (inc != n - 1)
