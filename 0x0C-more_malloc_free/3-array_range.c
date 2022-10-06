@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * array_range m - Ranage of the array
+ * array_range - find the range of array
  * @min: minimum
  * @max: maximu
  *
