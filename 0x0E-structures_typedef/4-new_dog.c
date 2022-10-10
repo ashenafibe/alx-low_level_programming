@@ -5,12 +5,12 @@ int _strlen(char *s);
 char *_strcpy(char *dest, char *src);
 
 /**
- * new_dog -
- * @name: ...
- * @age: ...
- * @owner: ...
+ * new_dog - the function retur
+ * @name: parameters
+ * @age: the age of the dog
+ * @owner: of the dog
  *
- * Return: ...
+ * Return: cutu dog
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
