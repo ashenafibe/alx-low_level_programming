@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef dynamic_H
+#define dynamic_H
 
 #include <stdio.h>
 #include <stdlib.h>
